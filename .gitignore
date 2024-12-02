@@ -1,0 +1,50 @@
+# Archivos y carpetas generados por Visual Studio
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Archivos de configuración específicos del entorno
+launchSettings.json
+
+# Archivos de compilación
+bin/
+obj/
+
+# Cache de dependencias y paquetes
+*.log
+*.cache
+*.ide
+*.pidb
+*.csproj.user
+
+# Archivos de paquetes y NuGet
+packages/
+*.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+
+# Carpetas específicas de .NET Core
+artifacts/
+AppPackages/
+
+# Configuración de sistema operativo y editor
+.DS_Store
+Thumbs.db
+
+# Archivos de logs y errores
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Publicación y salida temporal
+publish/
+wwwroot/
+dist/
+out/
+
+# Configuración de Rider/JetBrains
