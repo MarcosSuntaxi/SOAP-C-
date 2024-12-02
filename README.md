@@ -18,10 +18,13 @@ To run this project, you will need to have the following software installed:
    cd Soap-Csharp
 
 2. Restore the NuGet dependencies:
+    ```bash
     dotnet restore
 
 3. Build the project:
+    ```bash
     dotnet build
 
 4. Run the application:
+    ```bash
     dotnet run
